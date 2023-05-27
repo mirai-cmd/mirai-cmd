@@ -5,7 +5,10 @@
   <a href="https://linkedin.com/in/prajwal-ghotage" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+</div> 
+<br>
+<br>
+
 # About me:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="200"/>
@@ -22,3 +25,10 @@ Also I use Arch btw
     <span>Check out my website 🔗: <a href="https://prajwalghotage.netlify.app" target="_blank">Live</a></span>
   </b>
 </div>
+<br>
+
+# :fire: My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mirai-cmd&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-cmd)](https://github.com/anuraghazra/github-readme-stats)
