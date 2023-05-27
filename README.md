@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Prajwal. I am Web Developer and Cybersecurity enthusiast
+I'm Prajwal. I am a Web Developer and Cybersecurity enthusiast
 
 - 🌱 I’m currently learning Arch Linux, VPS hosting
 - 👯 I’m looking to collaborate on Web Projects
