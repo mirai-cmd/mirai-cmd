@@ -5,6 +5,12 @@
   <a href="https://linkedin.com/in/prajwal-ghotage" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://instagram.com/praj_wxl89" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=#f72c8b" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/grin980" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div> 
 <br>
 <br>
