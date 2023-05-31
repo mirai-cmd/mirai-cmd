@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://discord.com/users/754645244959522827" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div> 
 <br>
@@ -41,7 +41,7 @@ Also I use Arch btw
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mirai-cmd&theme=nightowl)](https://git.io/streak-stats)
   
-  ![mirai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai-cmd&show_icons=true&theme=nightowl)
+  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-cmd&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
   
