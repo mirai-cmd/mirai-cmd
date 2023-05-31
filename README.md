@@ -11,6 +11,9 @@
   <a href="https://twitter.com/grin980" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://discord.com/users/754645244959522827" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div> 
 <br>
 <br>
