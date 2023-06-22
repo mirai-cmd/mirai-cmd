@@ -26,7 +26,7 @@ I'm Prajwal. I am a Web Developer and Cybersecurity enthusiast. I love computers
 
 When I'm not coding I play video games🎮, watch anime and have an interest in psychology 🧠. Also I love playing badminton !!🏸
 
-Also I use Arch btw
+Arch btw
 <div id="contact" align="center">
   <b>
     <span>You can reach me at: prajwalghotage2508@gmail.com</span>
