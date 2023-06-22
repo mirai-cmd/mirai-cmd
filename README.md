@@ -22,7 +22,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="200"/>
 </div>
-I'm Prajwal. I am a Web Developer and Cybersecurity enthusiast. I love computers and technology!! I mostly work with MERN stack web development💻 and Cybersecurity🔐 with a focus on red teaming, however I always find learning new technologies an exciting process!! I’m currently learning VPS hosting on the cloud ☁️
+I'm Prajwal. I am a Web Developer and Cybersecurity enthusiast. I love computers and technology!! I mostly work with MERN stack web development💻 and Cybersecurity🔐 with a focus on offensive security, however I always find learning new technologies an exciting process!! I’m currently learning VPS hosting on the cloud ☁️
 
 When I'm not coding I play video games🎮, watch anime and have an interest in psychology 🧠. Also I love playing badminton !!🏸
 
@@ -43,6 +43,6 @@ Arch btw
   
   
   
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-cmd&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)-->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-cmd&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
