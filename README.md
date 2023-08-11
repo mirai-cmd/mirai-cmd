@@ -18,25 +18,36 @@
 <br>
 <br>
 
-# About me:
+# 👨‍💻 About me:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="200"/>
 </div>
-I'm Prajwal. I am a Web Developer and Cybersecurity enthusiast. I love computers and technology!! I mostly work with MERN stack web development💻 and Cybersecurity🔐 with a focus on offensive security, however I always find learning new technologies an exciting process!! I’m currently learning VPS hosting on the cloud ☁️
+<span>I'm Prajwal</span>
+<ul>
+  <li>💻I am a Web Developer and Cybersecurity enthusiast.</li> 
+  <li>🤝Would love to collaborate on network-security related projects</li>
+  <li>🔐I’m currently learning Network Security </li>
+  <li>🐱‍👤Ask me about CTFs, Linux, React.js</li>
+  <li>📧You can reach me at <a href="mailto:prajwalghotage2508@gmail.com">prajwalghotage2508@gmail.com</a></li>
+  <li>⚡Check out my  <a href="https://prajwalghotage.netlify.app" target="_blank">website</a></li>
+</ul>
 
 When I'm not coding I play video games🎮, watch anime and have an interest in psychology 🧠. Also I love playing badminton !!🏸
 
 Arch btw
-<div id="contact" align="center">
-  <b>
-    <span>You can reach me at: prajwalghotage2508@gmail.com</span>
-    <br>
-    <span>Check out my website 🔗: <a href="https://prajwalghotage.netlify.app" target="_blank">Live</a></span>
-  </b>
-</div>
+<br>
 <br>
 
-# 🔥 My Stats :
+# ⚙ Tech-Stack :
+<div align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,tailwindcss,nodejs,mysql,mongodb,linux,git,express,bash,postman,vercel&theme=dark&perline=7">
+  </a>
+</div>
+<br>
+<br>
+
+# 📈 GitHub Stats :
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mirai-cmd&theme=nightowl)](https://git.io/streak-stats)
