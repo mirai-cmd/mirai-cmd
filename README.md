@@ -26,7 +26,7 @@
 <ul>
   <li>💻I am a Web Developer and Cybersecurity enthusiast.</li> 
   <li>🤝Would love to collaborate on network-security related projects</li>
-  <li>🔐I’m currently learning Network Security </li>
+  <li>📀I’m currently learning Virtualisation</li>
   <li>🐱‍👤Ask me about CTFs, Linux, React.js</li>
   <li>📧You can reach me at <a href="mailto:prajwalghotage2508@gmail.com">prajwalghotage2508@gmail.com</a></li>
   <li>⚡Check out my  <a href="https://prajwalghotage.netlify.app" target="_blank">website</a></li>
