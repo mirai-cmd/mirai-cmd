@@ -8,8 +8,8 @@
   <a href="https://instagram.com/praj_wxl89" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=#f72c8b" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/grin980" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://play.picoctf.org/users/TheNotoriousDunk" target="_blank">
+    <img src="https://www.picoctf.org/img/logos/picoctf-logo-horizontal-white.svg" width=100/>
   </a>
   <a href="https://discord.com/users/754645244959522827" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
