@@ -20,7 +20,7 @@
 
 # 👨‍💻 About me:
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="300"/>
 </div>
 <span>I'm Prajwal</span>
 <ul>
@@ -28,7 +28,7 @@
   <li>🤝Would love to collaborate on network-security related projects</li>
   <li>📀I’m currently learning Virtualisation</li>
   <li>🐱‍👤Ask me about CTFs, Linux, React.js</li>
-  <li>📧You can reach me at <a href="mailto:prajwalghotage2508@gmail.com">prajwalghotage2508@gmail.com</a></li>
+  <li>📧You can reach me at <a href="mailto:prajwalghotage2508@gmail.com">prajwalghotage2508@gmail.com</a> for any collaborations</li>
   <li>⚡Check out my  <a href="https://prajwalghotage.netlify.app" target="_blank">website</a></li>
 </ul>
 
