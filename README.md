@@ -46,14 +46,3 @@ Arch btw
 </div>
 <br>
 <br>
-
-# 📈 GitHub Stats :
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mirai-cmd&theme=nightowl)](https://git.io/streak-stats)
-  
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-cmd&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
